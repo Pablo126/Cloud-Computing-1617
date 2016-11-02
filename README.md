@@ -21,7 +21,7 @@ Log: Este servicio será en el encargado de proporcionar información del uso de
 En cuanto a la aplicación, se pretende usar algún framework basado en Python, tal como Django o Flask.
 Para la gestion de jugadores, es un area que debe de estar muy bien definida, por lo que se usará un tipo de base de datos relacional como MySQL o Postgree.
 El area de gestión de estadísticas se puede basar en cualquier tipo de base de datos, desde MongoDB hasta MySQL, depende de los datos que se vayan a manejar.
-Por último, para el Log, se pretende usar [PaperTrail]( https://papertrailapp.com/)
+Por último, para el Log, se pretende usar [PaperTrail]( https://papertrailapp.com/).
 
 #### - Licencia
 
