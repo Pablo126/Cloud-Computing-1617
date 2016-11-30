@@ -1,0 +1,5 @@
+  package 'python-pip'
+  package 'python-dev'
+  package 'python-setuptools'
+  package 'django'
+  package 'mongodb'
