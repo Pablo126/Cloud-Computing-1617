@@ -55,3 +55,4 @@ Comenzemos:
 ```
 sudo chef-solo -c ~/Facultad/Cloud-Computing-1617/provision/Chef/chef/solo.rb
 ```
+  ![alt text](chef.png "Ejecución finalizada de chef-solo")
