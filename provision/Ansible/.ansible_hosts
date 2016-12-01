@@ -1,0 +1,2 @@
+[ubuntu]
+174.129.124.184 ansible_ssh_user='ubuntu'

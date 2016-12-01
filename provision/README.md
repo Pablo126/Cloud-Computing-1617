@@ -56,3 +56,30 @@ Comenzemos:
 sudo chef-solo -c ~/Facultad/Cloud-Computing-1617/provision/Chef/chef/solo.rb
 ```
   ![alt text](chef.png "Ejecución finalizada de chef-solo")
+
+
+### Provisionamiento con Ansible
+
+Vamos a realizar el provisionamiento también en Ansible.
+
+1. Instalamos Ansible en nuestra máquina en local
+```
+sudo apt-get install ansible
+```
+
+2. Creamos el fichero ~/.ansible_host:
+  ```
+  [Ubuntu]
+  104.40.149.210 ansible_ssh_user='pablo126' ansible_ssh_public_key_file=~/ssh/id_rsa
+  ```
+
+3. Añadimos la variable de entorno de ansible:
+  ```
+  export ANSIBLE_HOST=~/.ansible_hosts
+  ```
+4. Ejecutamos Ansible
+  ```
+  ansible-playbook -i .ansible_hosts --private-key key.pem -b playbook.yml
+  ```
+
+  ![alt text](ansible.png "Ejecución de Ansible")

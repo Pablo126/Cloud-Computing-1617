@@ -28,6 +28,7 @@ Por último, para el Log, se pretende usar [PaperTrail]( https://papertrailapp.c
 El sistema se va a desplegar en AWS, bajo un sistema Ubuntu server 14.
 La razón de utilizar AWS es que tras probar AWS y Azure para los ejercicios de la asignatura, AWS me parece más rápido de lanzar, conectar y me ha dejado eliminar mi tarjeta de crédito, lo que me da la confianza de que no producirá costes. Tanto la imagen de Azure como la de AWS traen instalado python, que utilizaré para mi aplicación.
 En cuanto sistema de provisionamiento, me ha gustado más Chef. Muy sencillo de instalar y la forma de crear las recetas es muy simple.
+Para esta parte del proyecto se creará un directorio donde se almacenarán todos los archivos usados. Puede consultar la documentación [aquí](https://github.com/Pablo126/Cloud-Computing-1617/blob/master/provision/README.md).
 
 
 #### - Licencia
