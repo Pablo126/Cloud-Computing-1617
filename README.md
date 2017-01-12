@@ -30,6 +30,12 @@ La razón de utilizar AWS es que tras probar AWS y Azure para los ejercicios de 
 En cuanto sistema de provisionamiento, me ha gustado más Chef. Muy sencillo de instalar y la forma de crear las recetas es muy simple.
 Para esta parte del proyecto se creará un directorio donde se almacenarán todos los archivos usados. Puede consultar la documentación [aquí](https://github.com/Pablo126/Cloud-Computing-1617/blob/master/provision/README.md).
 
+#### - Orquestación
+
+Vamos a realizar la orquestación de máquinas virtuales por medio de vagrant. Ejecutando una receta de Ansible para instalar las herramientas necesarias.
+En el siguiente enlace se puede ver con más detalle como se ha realizado el proceso.
+https://github.com/Pablo126/Cloud-Computing-1617/blob/master/orquestacion/README.md
+
 
 #### - Licencia
 
