@@ -14,3 +14,13 @@ sudo apt-get update
 sudo apt-get install docker-engine
 sudo service docker start
 ```
+
+#### Dockerhub
+
+Creamos una cuenta en dockerhub, enlazando nuestro repositorio de github.
+Para ello, se sigue la documentación de dockerhub:
+https://docs.docker.com/docker-hub/builds/
+
+Creamos un automated build con nuestro repositorio de github.
+
+Para que se cree el enlace hay que realizar un push a nuestro repositorio github.
