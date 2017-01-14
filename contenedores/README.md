@@ -1,4 +1,6 @@
 # Contenedores
+>Autor: Juan Pablo González Casado
+
 #### Instalando Docker
 Instalamos Docker ejecutando lo siguiente en el termina:
 ```
@@ -24,3 +26,16 @@ https://docs.docker.com/docker-hub/builds/
 Creamos un automated build con nuestro repositorio de github.
 
 Para que se cree el enlace hay que realizar un push a nuestro repositorio github.
+
+También habra que esperar a que se complete el proceso
+![alt text](dockerhub.png "Estado dockerhub github")
+
+A continuación tendremos que hacer lo siguiente
+```
+sudo docker pull pablo126/cloud-computing-16-17
+```
+![alt text](pull.png "Ejecución de pull")
+
+Y para conectarnos haremos lo siguiente:
+
+![alt text](conexion.png "Conexión con docker")
