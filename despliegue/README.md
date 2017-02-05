@@ -44,7 +44,6 @@ Ejecutando
 Comenzará a ejecutarse el vagrantfile con los playbooks, creando 3 MV en AWS con lo necesario.
 
 ![alt text](resultados1.png "Resultados")
-
 ![alt text](resultados.png "Resultados")
 
 
