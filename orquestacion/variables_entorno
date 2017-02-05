@@ -1,5 +1,0 @@
-export ACCESS_KEY_ID='aquiunascuantascosas'
-export SECRET_ACCESS_KEY='aquivanmuchascosas'
-export PRIVATE_KEY_NAME='mykey_ireland'
-export SECURITY_GROUP='default'
-export PRIVATE_KEY_PATH='/home/pablo/Facultad/mykey_ireland.pem'

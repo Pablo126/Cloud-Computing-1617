@@ -36,6 +36,11 @@ Vamos a realizar la orquestación de máquinas virtuales por medio de vagrant. E
 En el siguiente enlace se puede ver con más detalle como se ha realizado el proceso.
 https://github.com/Pablo126/Cloud-Computing-1617/blob/master/orquestacion/README.md
 
+#### - Despliegue
+
+El despliegue es la parte final de proyecto, donde crearemos todo lo necesario para dar soporte a nuestra aplicación. Puede ver el proceso en el siguiente enlace:
+https://github.com/Pablo126/Cloud-Computing-1617/blob/master/despliegue/README.md
+
 
 #### - Licencia
 
